@@ -1,5 +1,7 @@
-Luolassa on pimeää.
+Luolassa on pimeää ja märkää.
 
 Tämä luola on Ärrässä.
+
+Tämä luola on GitHubissa.
 
 Kylläpä nyt on hienot systeemit.
